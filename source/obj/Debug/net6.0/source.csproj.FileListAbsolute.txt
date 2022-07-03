@@ -1,0 +1,15 @@
+D:\C#\repo\Controlwork\source\bin\Debug\net6.0\source.exe
+D:\C#\repo\Controlwork\source\bin\Debug\net6.0\source.deps.json
+D:\C#\repo\Controlwork\source\bin\Debug\net6.0\source.runtimeconfig.json
+D:\C#\repo\Controlwork\source\bin\Debug\net6.0\source.dll
+D:\C#\repo\Controlwork\source\bin\Debug\net6.0\source.pdb
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.csproj.AssemblyReference.cache
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.AssemblyInfoInputs.cache
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.AssemblyInfo.cs
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.csproj.CoreCompileInputs.cache
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.dll
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\refint\source.dll
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.pdb
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\source.genruntimeconfig.cache
+D:\C#\repo\Controlwork\source\obj\Debug\net6.0\ref\source.dll
