@@ -1,4 +1,6 @@
-﻿/ задаю заданный условием массив с имеющимеся значениями
+﻿
+
+// задаю заданный условием массив с имеющимеся значениями
 string[] Array = new string[] {"hello", "2", "world", ":-)"}; // ок, работает на выходе [ 2 :-)   ].
 
 //проводим тестирование на других данных
@@ -22,6 +24,7 @@ void MetodNewArray (string [] array, string [] newarray)
             }
         }
 }
+
 //Метод печати массива
 void PrintArray (string [] array)
     {
@@ -34,7 +37,7 @@ void PrintArray (string [] array)
         Console.WriteLine();
     }
 
-//InputArrayKeyboard(); // заполнение массива с клавиатуры
+
 Console.WriteLine("Заданый массив");
 PrintArray(Array);
 MetodNewArray(Array, NewArray);
